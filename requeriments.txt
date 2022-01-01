@@ -1,0 +1,5 @@
+colorama
+requests
+tqdm
+bs4
+
